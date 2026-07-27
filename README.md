@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jih023/algorithm-solves/tree/master/0001-two-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jih023/algorithm-solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -15,4 +16,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jih023/algorithm-solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jih023/algorithm-solves/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
