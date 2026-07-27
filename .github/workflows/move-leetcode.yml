@@ -1,0 +1,54 @@
+name: Move LeetCode Solutions
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  move-leetcode-folders:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Move LeetCode folders
+        shell: bash
+        run: |
+          mkdir -p LeetCode
+
+          moved=false
+
+          for dir in */; do
+            folder="${dir%/}"
+
+            # LeetHub가 만드는 폴더:
+            # 숫자-문제이름 형식만 이동
+            if [[ "$folder" =~ ^[0-9]+- ]]; then
+              echo "Moving $folder to LeetCode/$folder"
+              git mv "$folder" "LeetCode/$folder"
+              moved=true
+            fi
+          done
+
+          if [ "$moved" = false ]; then
+            echo "No new LeetCode folders found."
+          fi
+
+      - name: Commit and push changes
+        run: |
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore: move LeetCode solutions"
+          git push
