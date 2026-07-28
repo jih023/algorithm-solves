@@ -13,6 +13,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jih023/algorithm-solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jih023/algorithm-solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/jih023/algorithm-solves/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jih023/algorithm-solves/tree/master/0009-palindrome-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/jih023/algorithm-solves/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
