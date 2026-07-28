@@ -27,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0009-palindrome-number](https://github.com/jih023/algorithm-solves/tree/master/0009-palindrome-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/jih023/algorithm-solves/tree/master/3536-maximum-product-of-two-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jih023/algorithm-solves/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
