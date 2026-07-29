@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jih023/algorithm-solves/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/jih023/algorithm-solves/tree/master/0027-remove-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jih023/algorithm-solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -44,4 +45,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jih023/algorithm-solves/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/jih023/algorithm-solves/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
