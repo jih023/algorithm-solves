@@ -31,9 +31,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jih023/algorithm-solves/tree/master/0020-valid-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jih023/algorithm-solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jih023/algorithm-solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jih023/algorithm-solves/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
